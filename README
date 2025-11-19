@@ -1,0 +1,1 @@
+Some parts of this code belong to Richard Stevens (e.g. unpipc.h). Other parts mentioned are used for educational purposes only. Mr. Stevens didn't include an explicit LICENSE file in his original source tree but some files contained the text mentioned in 'extra/LICENSE'. When modifying, sharing and performing other actions on the source code please respect Richard Stevens' work.
